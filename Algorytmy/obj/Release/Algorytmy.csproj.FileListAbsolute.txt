@@ -1,0 +1,8 @@
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Release\Algorytmy.exe.config
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Release\Algorytmy.exe
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Release\Algorytmy.pdb
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Release\Algorytmy.Form1.resources
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Release\Algorytmy.Properties.Resources.resources
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Release\Algorytmy.csproj.GenerateResource.Cache
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Release\Algorytmy.exe
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Release\Algorytmy.pdb

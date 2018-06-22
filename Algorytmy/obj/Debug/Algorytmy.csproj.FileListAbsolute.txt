@@ -1,0 +1,46 @@
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojResolveAssemblyReference.cache
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.Cache
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+c:\users\shepard\documents\visual studio 2015\Projects\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojResolveAssemblyReference.cache
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.Cache
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.CoreCompileInputs.cache
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+C:\Users\Student_test\Desktop\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojResolveAssemblyReference.cache
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.Cache
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.manifest
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.application
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe.manifest
+C:\Users\Shepard\Desktop\Downloads\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.application
+D:\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+D:\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.manifest
+D:\Algorytmy\Algorytmy\bin\Debug\Algorytmy.application
+D:\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+D:\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojAssemblyReference.cache
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.cache
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.CoreCompileInputs.cache
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe.manifest
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.application
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+D:\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
